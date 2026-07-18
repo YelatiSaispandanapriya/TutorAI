@@ -34,7 +34,7 @@ flowchart TD
 ## Quick Start
 
 ```bash
-git clone https://github.com/Akasxh/TutorAI.git
+git clone https://github.com/YelatiSaispandanapriya/TutorAI.git
 cd TutorAI
 pip install -r requirements.txt
 streamlit run main.py
